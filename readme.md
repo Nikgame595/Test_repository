@@ -1,2 +1,2 @@
 +html+css
-+Aвтор:Nikita
++Aвтор:Svetlana Sokolova
